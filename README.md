@@ -1,0 +1,1 @@
+![alt text](output_kb_baru_kumulatif/heatmap_metode_kb.png) ![alt text](output_kb_baru_kumulatif/peserta_kb_baru_per_kecamatan.png) ![alt text](output_kb_baru_kumulatif/stacked_metode_kb_per_kecamatan.png)
