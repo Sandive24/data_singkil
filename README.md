@@ -23,14 +23,8 @@ Proyek ini menyajikan visualisasi data peserta KB baru berdasarkan kecamatan dan
 
 Semua gambar visualisasi disimpan di folder:
 
-```
-projek_real_singkil/output_kb_baru_kumulatif/
-```
-
-* `peserta_kb_baru_per_kecamatan.png`
-* `stacked_metode_kb_per_kecamatan.png`
-* `heatmap_metode_kb.png`
-
----
+projek_real_singkil\output_kb_baru_kumulatif\heatmap_metode_kb.png
+projek_real_singkil\output_kb_baru_kumulatif\peserta_kb_baru_per_kecamatan.png
+projek_real_singkil\output_kb_baru_kumulatif\stacked_metode_kb_per_kecamatan.png
 
 > Proyek ini bertujuan untuk membantu memahami pola penggunaan layanan KB secara sederhana melalui grafik visual yang informatif dan mudah dibaca.
