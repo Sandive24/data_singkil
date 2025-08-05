@@ -1,54 +1,36 @@
-# 📊 Visualisasi Data Peserta KB Baru per Kecamatan
+# Visualisasi Data Peserta KB Baru di Kabupaten Singkil
 
-Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data jumlah peserta KB baru serta distribusi metode kontrasepsi yang digunakan di berbagai kecamatan.
+Proyek ini menyajikan visualisasi data peserta KB baru berdasarkan kecamatan dan metode kontrasepsi yang digunakan di Kabupaten Singkil.
 
-## 🔍 Deskripsi Singkat
+## Hasil Visualisasi
 
-Dataset berisi jumlah peserta KB baru dan rincian penggunaan metode kontrasepsi per kecamatan. Visualisasi dilakukan menggunakan Python, pandas, matplotlib, dan seaborn. Tiga jenis grafik dihasilkan:
+1. **Jumlah Peserta KB Baru per Kecamatan**
 
-1. **Bar Chart Horizontal**: Menunjukkan jumlah peserta KB baru di setiap kecamatan.
-2. **Stacked Bar Chart**: Menggambarkan distribusi metode KB di tiap kecamatan.
-3. **Heatmap**: Memvisualisasikan intensitas penggunaan metode KB antar kecamatan.
+   * Grafik batang horizontal yang menunjukkan banyaknya peserta KB baru di masing-masing kecamatan.
+   * Kecamatan dengan jumlah peserta terbanyak adalah Gunung Meriah.
 
-## 📁 Struktur Folder
+2. **Distribusi Penggunaan Metode KB**
+
+   * Grafik batang bertumpuk yang menampilkan beragam metode KB yang digunakan di setiap kecamatan.
+   * Memberikan gambaran proporsi metode yang paling dominan.
+
+3. **Heatmap Penggunaan Metode KB**
+
+   * Visualisasi intensitas penggunaan masing-masing metode KB di tiap kecamatan.
+   * Warna lebih gelap menandakan jumlah yang lebih banyak.
+
+## Lokasi File Output
+
+Semua gambar visualisasi disimpan di folder:
 
 ```
-output_kb_baru_kumulatif/
-│
-├── peserta_kb_baru_per_kecamatan.png
-├── stacked_metode_kb_per_kecamatan.png
-└── heatmap_metode_kb.png
+projek_real_singkil/output_kb_baru_kumulatif/
 ```
 
-## 📷 Contoh Visualisasi
+* `peserta_kb_baru_per_kecamatan.png`
+* `stacked_metode_kb_per_kecamatan.png`
+* `heatmap_metode_kb.png`
 
-### Jumlah Peserta KB Baru per Kecamatan
+---
 
-![Jumlah Peserta KB](output_kb_baru_kumulatif/peserta_kb_baru_per_kecamatan.png)
-
-### Distribusi Metode KB (Stacked Bar)
-
-![Stacked Bar Metode KB](output_kb_baru_kumulatif/stacked_metode_kb_per_kecamatan.png)
-
-### Heatmap Penggunaan Metode KB
-
-![Heatmap Metode KB](output_kb_baru_kumulatif/heatmap_metode_kb.png)
-
-## 🛠️ Tools & Library
-
-* Python 3.x
-* pandas
-* matplotlib
-* seaborn
-* os
-
-## 🧠 Cara Kerja
-
-1. Membaca dan menyiapkan data dalam format dictionary → DataFrame.
-2. Membuat tiga jenis visualisasi untuk menganalisis distribusi jumlah peserta dan metode KB.
-3. Menyimpan grafik ke dalam folder `output_kb_baru_kumulatif`.
-
-## 📌 Catatan
-
-* Visualisasi cocok digunakan untuk laporan analisis program KB di tingkat kecamatan.
-* Dapat dikembangkan untuk dashboard interaktif atau integrasi dengan data real-time.
+> Proyek ini bertujuan untuk membantu memahami pola penggunaan layanan KB secara sederhana melalui grafik visual yang informatif dan mudah dibaca.
