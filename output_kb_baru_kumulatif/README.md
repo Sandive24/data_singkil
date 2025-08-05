@@ -1,0 +1,30 @@
+# Visualisasi Data Peserta KB Baru di Kabupaten Singkil
+
+Proyek ini menyajikan visualisasi data peserta KB baru berdasarkan kecamatan dan metode kontrasepsi yang digunakan di Kabupaten Singkil.
+
+## Hasil Visualisasi
+
+1. **Jumlah Peserta KB Baru per Kecamatan**
+
+   Grafik batang horizontal yang menunjukkan banyaknya peserta KB baru di masing-masing kecamatan.
+   Kecamatan dengan jumlah peserta terbanyak adalah Gunung Meriah.
+
+   ![Jumlah Peserta KB Baru per Kecamatan](output_kb_baru_kumulatif/peserta_kb_baru_per_kecamatan.png)
+
+2. **Distribusi Penggunaan Metode KB**
+
+   Grafik batang bertumpuk yang menampilkan beragam metode KB yang digunakan di setiap kecamatan.
+   Memberikan gambaran proporsi metode yang paling dominan.
+
+   ![Distribusi Penggunaan Metode KB](output_kb_baru_kumulatif/stacked_metode_kb_per_kecamatan.png)
+
+3. **Heatmap Penggunaan Metode KB**
+
+   Visualisasi intensitas penggunaan masing-masing metode KB di tiap kecamatan.
+   Warna lebih gelap menandakan jumlah yang lebih banyak.
+
+   ![Heatmap Penggunaan Metode KB](output_kb_baru_kumulatif/heatmap_metode_kb.png)
+
+---
+
+> Proyek ini bertujuan untuk membantu memahami pola penggunaan layanan KB secara sederhana melalui grafik visual yang informatif dan mudah dibaca.
