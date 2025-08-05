@@ -78,7 +78,7 @@ Proyek ini bertujuan untuk:
 
 ## 📨 Kontak
 
-Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/username/repo-name/issues) atau email ke: `email@example.com`
+Untuk pertanyaan atau kolaborasi, silakan hubungi melalui [GitHub Issues](https://github.com/username/repo-name/issues) atau email ke: `ahmadnurikhsan079@gmail.com`
 
 ---
 
